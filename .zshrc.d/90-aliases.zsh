@@ -1,0 +1,18 @@
+# aliases
+alias l='ls'
+alias la='ls -a'
+alias ll='ls -al'
+alias pc='pbcopy'
+alias pp='pbpaste'
+
+alias ga='git add'
+alias gc='git commit'
+alias gcm='git commit -m'
+alias gca='git commit --amend'
+alias gcan='git commit --amend --no-edit'
+alias gs='git status'
+alias glg='git log --oneline'
+alias gd='git diff'
+alias gds='git diff --staged'
+alias gp='git push'
+alias gl='git pull'
